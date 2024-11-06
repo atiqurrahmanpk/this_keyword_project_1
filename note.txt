@@ -1,6 +1,0 @@
-1. Folder Name: a. assets b. includes
-    b. includes => file name: product.php => Declaration A Class
-
-
-2. file name: products.php => $products er array create korte hobe and value dite hobe
-    foreach use korte hobe
