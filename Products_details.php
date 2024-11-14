@@ -35,4 +35,6 @@ $products =[  // Product.php এর class Produc_t টি এখানে ব্
 	<?php endforeach ?>
 </div>
 
+<?php include 'coments.php' ?>
+
 <?php include 'includes/footer.php' ?>

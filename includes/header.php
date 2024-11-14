@@ -12,7 +12,7 @@
     
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="https://guardianbajar.com/allproject/Products_details.php">Project 1</a>
+            <a class="navbar-brand" href="https://guardianbajar.com/thiskeyword_project_1">Project 1</a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link" href="Products_details.php">Products</a></li>
